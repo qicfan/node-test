@@ -1,0 +1,25 @@
+{
+  "name": "jsspider",
+  "version": "1.0.0",
+  "description": "jsspider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "cheerio": "^0.20.0",
+    "gm": "^1.21.1",
+    "moment": "^2.12.0",
+    "node-tesseract": "^0.2.7",
+    "node-xlsx": "^0.6.0",
+    "nodejieba": "^1.4.9",
+    "request": "^2.69.0",
+    "request-promise": "^2.0.1",
+    "sqlite3": "^3.1.1",
+    "tough-cookie": "^2.2.2",
+    "tough-cookie-filestore": "0.0.1"
+  },
+  "author": "qixiaopeng",
+  "license": "ISC"
+}
